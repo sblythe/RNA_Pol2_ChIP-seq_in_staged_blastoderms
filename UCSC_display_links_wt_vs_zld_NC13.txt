@@ -1,0 +1,7 @@
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_wt_NC13 description=wild-type_NC13_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,149,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/wt_NC13_RNAPolII_pSer5.dm6.bigWig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_zld_NC13 description=zelda_NC13_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,159,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/zld_NC13_RNAPolII_pSer5.dm6.bigWig
