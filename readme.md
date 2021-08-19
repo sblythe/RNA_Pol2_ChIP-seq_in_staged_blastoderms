@@ -12,3 +12,5 @@ The available timepoints for wild-type are:
 5. NC14 late
 
 There is also one timepoint (NC13) from *zelda<sup>294<sup>* germline clone embryos. These can be compared directly with the wild-type NC13 sample to see the (often dramatic) effect of loss of function for *zelda*.
+
+The "UCSC_display_links..." files are used for display of the bigwig files on the UCSC genome browser. 

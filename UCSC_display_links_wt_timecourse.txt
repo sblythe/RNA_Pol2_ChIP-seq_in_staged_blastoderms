@@ -1,0 +1,19 @@
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_NC12 description=NC12_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,139,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/wt_NC12_RNAPolII_pSer5.dm6.bigWig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_NC13 description=NC13_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,149,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/wt_NC13_RNAPolII_pSer5.dm6.bigWig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_NC14e description=NC14_early_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,159,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/wt_NC14_Early_RNAPolII_pSer5.dm6.bigWig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_NC14m description=NC14_mid_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,169,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/wt_NC14_Middle_RNAPolII_pSer5.dm6.bigWig
+
+browser position chr2R:9961491-9994023
+
+track type=bigWig name=Pol2_NC14l description=NC14_late_Pol2_pSer5_ChIP autoScale=off  alwaysZero=on maxHeightPixels=50 viewLimits=0:120 visibility=full color=34,179,34 smoothingWindow=5 windowingFunction=mean bigDataUrl=https://raw.githubusercontent.com/sblythe/RNA_Pol2_ChIP-seq_in_staged_blastoderms/main/wt_NC14_Late_RNAPolII_pSer5.dm6.bigWig
